@@ -1,0 +1,11 @@
+Belongs to Mobiles Shopping
+
+Offer: 5 % Off for IPhone
+
+Offer: 20 % Off for REDMI
+
+Offer: 30 % Off for NOKIA
+
+Offer: 40 % Off for LENOVO
+
+Offer: 50 % Off for HONOR
